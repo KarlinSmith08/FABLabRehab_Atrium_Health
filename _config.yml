@@ -43,7 +43,7 @@ plugins:
 author:
   name   : "Karlin Smith, Marisol Wickham, Caroline Uys, Scarlett Black"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Karlin, Marisol, Caroline, and Scarlett are seniors at Charlotte Latin School in Advanced Engineering."
+  bio    : "Charlotte Latin students, Karlin Smith, Marisol Wickham, Caroline Uys, and Scarlett Black, working with Atrium Health to create assistive devices for their rehabilitation center in Uptown Charlotte. "
   links:
     - label: "GitHub Repository"
       icon: "fab fa-fw fa-github"
