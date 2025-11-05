@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Karlin Smith, Marisol Wickham, Caroline Uys, and Scarlett Black, are Seniors at Charlotte Latin School. They are in Advanced Engineering, taking the Honors course. This year, an opportunity was offered to us to work with Atrium Health’s inpatient rehab center, a part of the new Pearl center in uptown Charlotte. They will work with Atrium by making and developing assistive devices for patients that increase independence and ease in their everyday lives. This will be their Senior Capstone Project and they will work heavily on this internship during designated days of class. They will also visit the rehab center multiple times throughout the year.
