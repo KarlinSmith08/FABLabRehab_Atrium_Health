@@ -8,21 +8,21 @@ Karlin Smith, Marisol Wickham, Caroline Uys, and Scarlett Black, are Seniors at 
 Our own individual GitHub Repositories and Portfolios can be found below:
 **Karlin Smith**:
 GitHub Username: KarlinSmith08
-GitHub Repository:
-Digital Portfolio: 
+GitHub Repository: [Link](https://github.com/KarlinSmith08/KarlinSmithPortfolio)
+Digital Portfolio: [Link](https://karlinsmith08.github.io/KarlinSmithPortfolio/) 
 
 **Marisol Wickham**:
 GitHub Username: 26wickhm
-GitHub Repository:
+GitHub Repository: [Link](https://github.com/26wickhm/Wickham-Marisol-portfolio)
 Digital Portfolio: 
 
 **Caroline Uys**:
 GitHub Username: carolineuys
-GitHub Repository:
+GitHub Repository: [Link](https://github.com/carolineuys/Caroline-Uys-Portfolio)
 Digital Portfolio:
 
 **Scarlett Black**:
 GitHub Username: Scarletteblack
-GitHub Repository:
+GitHub Repository: [Link](https://github.com/Scarletteblack/Black-Scarlett-Honors-Engineering-Portfolio) 
 Digital Portfolio:
 
