@@ -1,5 +1,5 @@
 ---
-title: "Daily Journal: Collective"
+title: "Daily Journal: Collective Documentation"
 last_modified_at: 2025-11-7
 categories:
   - Blog
