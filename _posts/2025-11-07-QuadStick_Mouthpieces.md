@@ -16,3 +16,5 @@ Karlin began by finding files for the quadstick mouthpiece. She was able to find
 <img src="https://karlinsmith08.github.io/FABLabRehab_Atrium_Health/assets/images/Mouthpieces_in_Bambu.png">
 She then printed a set of all four of the mouthpieces. She tested them by seeing how all four holes at the top of the mouthpiece, those used to "sip and puff", were connected to holes at the bottom of the mouthpiece, those connect to the technology of the Quadstick itself. Below are a few pictures of the four printed mouthpieces and their assets:
 <img src="https://karlinsmith08.github.io/FABLabRehab_Atrium_Health  ">
+
+**November 11th, 2025**: An OT at Atrium Health let us know that the Atrium Health Levine Children's Hospital has a food safe 3D printer that they will print a test set of the mouthpieces on. It is currently being used to create mouth sticks that are used to tap on tablets, phones, etc.
