@@ -15,7 +15,7 @@ Digital Portfolio: [Link](https://karlinsmith08.github.io/KarlinSmithPortfolio/)
 **Marisol Wickham**:
 GitHub Username: 26wickhm
 GitHub Repository: [Link](https://github.com/26wickhm/Wickham-Marisol-portfolio)
-Digital Portfolio: 
+Digital Portfolio: [Link](https://26wickhm.github.io/Wickham-Marisol-portfolio/)
 
 **Caroline Uys**:
 GitHub Username: carolineuys
