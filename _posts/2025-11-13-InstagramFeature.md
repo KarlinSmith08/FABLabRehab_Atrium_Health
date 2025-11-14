@@ -13,4 +13,4 @@ Our projects and the new partnership with Atrium Health were featured in an arti
 
 [**Post linked here!**](https://www.instagram.com/p/DQ4ltWhkZqU/) 
 
-<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/fab_internship_1.jpeg">
+<img src="https://karlinsmith08.github.io/KarlinSmithPortfolio/assets/images/fab_internship_1.jpg">
