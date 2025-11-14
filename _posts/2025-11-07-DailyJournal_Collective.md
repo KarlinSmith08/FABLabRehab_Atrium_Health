@@ -7,6 +7,10 @@ tags:
   - Documentation
   - Collective
   - Projects
+  - Karlin Smith
+  - Marisol Wickham
+  - Caroline Uys
+  - Scarlett Black
 
 ---
 

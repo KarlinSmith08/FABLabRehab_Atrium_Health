@@ -20,10 +20,10 @@ Digital Portfolio: [Link](https://26wickhm.github.io/Wickham-Marisol-portfolio/)
 **Caroline Uys**:
 GitHub Username: carolineuys
 GitHub Repository: [Link](https://github.com/carolineuys/Caroline-Uys-Portfolio)
-Digital Portfolio:
+Digital Portfolio: [Link](https://carolineuys.github.io/Caroline-Uys-Portfolio/)
 
 **Scarlett Black**:
 GitHub Username: Scarletteblack
 GitHub Repository: [Link](https://github.com/Scarletteblack/Black-Scarlett-Honors-Engineering-Portfolio) 
-Digital Portfolio:
+Digital Portfolio: [Link](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/)
 
