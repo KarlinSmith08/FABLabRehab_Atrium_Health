@@ -1,6 +1,6 @@
 ---
 title: "Daily Journal: Collective Documentation"
-last_modified_at: 2025-11-7
+last_modified_at: 2025-11-14
 categories:
   - Blog
 tags:
