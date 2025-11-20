@@ -10,17 +10,18 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+# kramdown options: enable hard_wrap so single newlines become <br>
+# and use GitHub-Flavored Markdown input which is commonly expected.
 kramdown:
   input: GFM
   hard_wrap: true
+# Outputting
 include:
   - _pages
-# Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 
 # Exclude from processing.
